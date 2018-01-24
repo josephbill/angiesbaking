@@ -46,7 +46,7 @@
 	    res.sendStatus(200)
     })
 
-    const token = "<PAGE_ACCESS_TOKEN>"
+    const token = "EAALqTXVZCdYMBAA87S4ymVgC1SXKE6MrMP1buaWoDnHyOFAKZBc3UZAJZAUWpanfRkZBfAt9sK6UpHMD7f4Xj4ZBnY4EajBZBQkmuARIpXmujr4EVgI4BckNdk9Nm74DiOB0PiW8qVbI0HBl87e6Nv4da2ho6J5jYMZBPJZCZCS2uDy7BHKXPUST4t"
 
     //after installing the dependencies highlighted in notes
     //and the bot works 
