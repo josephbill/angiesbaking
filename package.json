@@ -1,0 +1,19 @@
+{
+  "name": "angiesbaking",
+  "version": "1.0.0",
+  "description": "client service bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angies"
+  ],
+  "author": "Joseph Bill",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
